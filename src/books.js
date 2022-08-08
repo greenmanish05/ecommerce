@@ -28,7 +28,18 @@ import ipadair2 from "./images/ipadair2.webp";
 import ipadair3 from "./images/ipadair3.webp";
 import ipadair4 from "./images/ipadair4.webp";
 import ipadair5 from "./images/ipadair5.webp";
-
+import pixel1 from "./images/pixel1.jpg";
+import pixel2 from "./images/pixel2.jpg";
+import pixel21 from "./images/pixel21.jpg";
+import pixel22 from "./images/pixel22.jpg";
+import sam1 from "./images/sam1.jpg";
+import sam2 from "./images/sam2.jpg";
+import sam3 from "./images/sam3.jpg";
+import sam4 from "./images/sam4.jpg";
+import sam21 from "./images/sam21.jpg";
+import sam22 from "./images/sam22.jpg";
+import sam23 from "./images/sam23.jpg";
+import sam24 from "./images/sam24.jpg";
 
 
 
@@ -497,7 +508,213 @@ export const books = {
         "Light. Bright. Full of might. Supercharged by M1. iPad Air. With an immersive 10.9-inch Liquid Retina display. The breakthrough Apple M1 chip delivers faster performance, making iPad Air a creative and mobile gaming powerhouse. Featuring Touch ID, advanced cameras, blazing-fast 5G and Wi-Fi 6, USB-C, and support for Magic Keyboard...",
     },
   ],
-  Fantasy: [],
-  Horror: [],
-  Adventure: [],
+  Pixel: [
+    {
+      name: "Google - Pixel 6 Pro 128GB (Unlocked) - Stormy Black",
+      price: 899,
+      rating: 5,
+      image: pixel1,
+      about:
+        "Introducing Pixel 6 Pro, the completely redesigned, fully loaded Google 5G phone.* With a powerful camera system, next-gen security, and the custom-built Google Tensor processor, it’s the smartest and fastest Pixel yet.",
+    },
+    {
+      name: "Google - Pixel 6 Pro 256GB (Unlocked) - Stormy Black",
+      price: 999,
+      rating: 5,
+      image: pixel1,
+      about:
+        "Introducing Pixel 6 Pro, the completely redesigned, fully loaded Google 5G phone.* With a powerful camera system, next-gen security, and the custom-built Google Tensor processor, it’s the smartest and fastest Pixel yet.",
+    },
+    {
+      name: "Google - Pixel 6 Pro 128GB (Unlocked) - Stormy Black",
+      price: 899,
+      rating: 5,
+      image: pixel1,
+      about:
+        "Introducing Pixel 6 Pro, the completely redesigned, fully loaded Google 5G phone.* With a powerful camera system, next-gen security, and the custom-built Google Tensor processor, it’s the smartest and fastest Pixel yet.",
+    },
+    {
+      name: "Google - Pixel 6 Pro 128GB (Unlocked) - Cloudy White",
+      price: 899,
+      rating: 5,
+      image: pixel2,
+      about:
+        "Introducing Pixel 6 Pro, the completely redesigned, fully loaded Google 5G phone.* With a powerful camera system, next-gen security, and the custom-built Google Tensor processor, it’s the smartest and fastest Pixel yet.",
+    },
+    {
+      name: "Google - Pixel 6 Pro 256GB (Unlocked) - Cloudy White",
+      price: 999,
+      rating: 5,
+      image: pixel2,
+      about:
+        "Introducing Pixel 6 Pro, the completely redesigned, fully loaded Google 5G phone.* With a powerful camera system, next-gen security, and the custom-built Google Tensor processor, it’s the smartest and fastest Pixel yet.",
+    },
+
+    {
+      name: "Google - Pixel 6 256GB (Unlocked) - Stormy Black",
+      price: 599,
+      rating: 5,
+      image: pixel21,
+      about:
+        "Meet Pixel 6. It’s completely reimagined, inside and out. Powered by Tensor, Google’s first-ever processor, it’s fast, smart, and secure. The all-day battery adapts to you. The Pixel Camera captures a moment just how you experienced it. And the Personal Safety app and the new Titan M2TM chip help protect you, your stuff, and your privacy.",
+    },
+    {
+      name: "Google - Pixel 6 Pro 256GB (Unlocked) - Stormy Black",
+      price: 699,
+      rating: 5,
+      image: pixel21,
+      about:
+        "Meet Pixel 6. It’s completely reimagined, inside and out. Powered by Tensor, Google’s first-ever processor, it’s fast, smart, and secure. The all-day battery adapts to you. The Pixel Camera captures a moment just how you experienced it. And the Personal Safety app and the new Titan M2TM chip help protect you, your stuff, and your privacy.",
+    },
+    {
+      name: "Google - Pixel 6 256GB (Unlocked) - Sorta Seafoam",
+      price: 599,
+      rating: 5,
+      image: pixel22,
+      about:
+        "Meet Pixel 6. It’s completely reimagined, inside and out. Powered by Tensor, Google’s first-ever processor, it’s fast, smart, and secure. The all-day battery adapts to you. The Pixel Camera captures a moment just how you experienced it. And the Personal Safety app and the new Titan M2TM chip help protect you, your stuff, and your privacy.",
+    },
+    {
+      name: "Google - Pixel 6 Pro 256GB (Unlocked) - Sorta Seafoam",
+      price: 699,
+      rating: 5,
+      image: pixel22,
+      about:
+        "Meet Pixel 6. It’s completely reimagined, inside and out. Powered by Tensor, Google’s first-ever processor, it’s fast, smart, and secure. The all-day battery adapts to you. The Pixel Camera captures a moment just how you experienced it. And the Personal Safety app and the new Titan M2TM chip help protect you, your stuff, and your privacy.",
+    },
+  ],
+  Galaxy: [
+    {
+      name: "Samsung - Galaxy S22+ 128GB (Unlocked) - Phantom Black",
+      price: 799,
+      rating: 5,
+      image: sam1,
+      about:
+        "Galaxy S22+ is redefining the epic standard – both for what a smartphone can do with video and for what you can communicate, create, and experience with it. In other words, if you’ve got something to say, Galaxy S22+ makes it possible to say anything you want with video, at any time-even in the darkness of night.",
+    },
+    {
+      name: "Samsung - Galaxy S22+ 256GB (Unlocked) - Phantom Black",
+      price: 949,
+      rating: 5,
+      image: sam1,
+      about:
+        "Galaxy S22+ is redefining the epic standard – both for what a smartphone can do with video and for what you can communicate, create, and experience with it. In other words, if you’ve got something to say, Galaxy S22+ makes it possible to say anything you want with video, at any time-even in the darkness of night.",
+    },
+    {
+      name: "Samsung - Galaxy S22+ 128GB (Unlocked) - Green",
+      price: 799,
+      rating: 5,
+      image: sam2,
+      about:
+        "Galaxy S22+ is redefining the epic standard – both for what a smartphone can do with video and for what you can communicate, create, and experience with it. In other words, if you’ve got something to say, Galaxy S22+ makes it possible to say anything you want with video, at any time-even in the darkness of night.",
+    },
+    {
+      name: "Samsung - Galaxy S22+ 256GB (Unlocked) - Green",
+      price: 949,
+      rating: 5,
+      image: sam2,
+      about:
+        "Galaxy S22+ is redefining the epic standard – both for what a smartphone can do with video and for what you can communicate, create, and experience with it. In other words, if you’ve got something to say, Galaxy S22+ makes it possible to say anything you want with video, at any time-even in the darkness of night.",
+    },
+    {
+      name: "Samsung - Galaxy S22+ 128GB (Unlocked) - Phantom White",
+      price: 799,
+      rating: 5,
+      image: sam3,
+      about:
+        "Galaxy S22+ is redefining the epic standard – both for what a smartphone can do with video and for what you can communicate, create, and experience with it. In other words, if you’ve got something to say, Galaxy S22+ makes it possible to say anything you want with video, at any time-even in the darkness of night.",
+    },
+    {
+      name: "Samsung - Galaxy S22+ 256GB (Unlocked) - Phantom White",
+      price: 949,
+      rating: 5,
+      image: sam3,
+      about:
+        "Galaxy S22+ is redefining the epic standard – both for what a smartphone can do with video and for what you can communicate, create, and experience with it. In other words, if you’ve got something to say, Galaxy S22+ makes it possible to say anything you want with video, at any time-even in the darkness of night.",
+    },
+    {
+      name: "Samsung - Galaxy S22+ 128GB (Unlocked) - Pink Gold",
+      price: 799,
+      rating: 5,
+      image: sam4,
+      about:
+        "Galaxy S22+ is redefining the epic standard – both for what a smartphone can do with video and for what you can communicate, create, and experience with it. In other words, if you’ve got something to say, Galaxy S22+ makes it possible to say anything you want with video, at any time-even in the darkness of night.",
+    },
+    {
+      name: "Samsung - Galaxy S22+ 256GB (Unlocked) - Pink Gold",
+      price: 949,
+      rating: 5,
+      image: sam4,
+      about:
+        "Galaxy S22+ is redefining the epic standard – both for what a smartphone can do with video and for what you can communicate, create, and experience with it. In other words, if you’ve got something to say, Galaxy S22+ makes it possible to say anything you want with video, at any time-even in the darkness of night.",
+    },
+    
+
+    {
+      name: "Samsung - Galaxy S22 128GB (Unlocked) - Phantom Black",
+      price: 699,
+      rating: 5,
+      image: sam21,
+      about:
+        "Galaxy S22 is redefining the epic standard – both for what a smartphone can do with video and for what you can communicate, create, and experience with it. In other words, if you’ve got something to say, Galaxy S22 makes it possible to say anything you want with video, at any time-even in the darkness of night.",
+    },
+    {
+      name: "Samsung - Galaxy S22 256GB (Unlocked) - Phantom Black",
+      price: 749,
+      rating: 5,
+      image: sam21,
+      about:
+        "Galaxy S22 is redefining the epic standard – both for what a smartphone can do with video and for what you can communicate, create, and experience with it. In other words, if you’ve got something to say, Galaxy S22 makes it possible to say anything you want with video, at any time-even in the darkness of night.",
+    },
+    {
+      name: "Samsung - Galaxy S22 128GB (Unlocked) - Green",
+      price: 699,
+      rating: 5,
+      image: sam22,
+      about:
+        "Galaxy S22 is redefining the epic standard – both for what a smartphone can do with video and for what you can communicate, create, and experience with it. In other words, if you’ve got something to say, Galaxy S22 makes it possible to say anything you want with video, at any time-even in the darkness of night.",
+    },
+    {
+      name: "Samsung - Galaxy S22 256GB (Unlocked) - Green",
+      price: 749,
+      rating: 5,
+      image: sam22,
+      about:
+        "Galaxy S22 is redefining the epic standard – both for what a smartphone can do with video and for what you can communicate, create, and experience with it. In other words, if you’ve got something to say, Galaxy S22 makes it possible to say anything you want with video, at any time-even in the darkness of night.",
+    },
+    {
+      name: "Samsung - Galaxy S22 128GB (Unlocked) - Phantom White",
+      price: 699,
+      rating: 5,
+      image: sam23,
+      about:
+        "Galaxy S22 is redefining the epic standard – both for what a smartphone can do with video and for what you can communicate, create, and experience with it. In other words, if you’ve got something to say, Galaxy S22 makes it possible to say anything you want with video, at any time-even in the darkness of night.",
+    },
+    {
+      name: "Samsung - Galaxy S22 256GB (Unlocked) - Phantom White",
+      price: 749,
+      rating: 5,
+      image: sam23,
+      about:
+        "Galaxy S22 is redefining the epic standard – both for what a smartphone can do with video and for what you can communicate, create, and experience with it. In other words, if you’ve got something to say, Galaxy S22 makes it possible to say anything you want with video, at any time-even in the darkness of night.",
+    },
+    {
+      name: "Samsung - Galaxy S22 128GB (Unlocked) - Pink Gold",
+      price: 699,
+      rating: 5,
+      image: sam24,
+      about:
+        "Galaxy S22 is redefining the epic standard – both for what a smartphone can do with video and for what you can communicate, create, and experience with it. In other words, if you’ve got something to say, Galaxy S22 makes it possible to say anything you want with video, at any time-even in the darkness of night.",
+    },
+    {
+      name: "Samsung - Galaxy S22 256GB (Unlocked) - Pink Gold",
+      price: 749,
+      rating: 5,
+      image: sam24,
+      about:
+        "Galaxy S22 is redefining the epic standard – both for what a smartphone can do with video and for what you can communicate, create, and experience with it. In other words, if you’ve got something to say, Galaxy S22 makes it possible to say anything you want with video, at any time-even in the darkness of night.",
+    },
+
+  ],
+  Oneplus: [],
 };
